@@ -1,0 +1,7 @@
+langchain 
+langchain-google-genai 
+duckduckgo-search 
+ddgs
+langchain-community 
+pdfplumber 
+pydantic
